@@ -1,5 +1,5 @@
 # Pokr
-Poker example in Kotlin
+Poker example with Software Design Patterns application in Kotlin
 
 ### List of todo
 - implement hand detection for any number of cards, n ≥ 2
